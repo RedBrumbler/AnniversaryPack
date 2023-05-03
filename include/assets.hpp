@@ -44,5 +44,6 @@ struct IncludedAsset {
 namespace IncludedAssets {
 
 	DECLARE_FILE(PromoImage_png)
+	DECLARE_FILE(playlist_bplist)
 
 }
