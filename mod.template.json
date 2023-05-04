@@ -8,7 +8,13 @@
     "packageVersion": "1.28.0_4124311467",
     "coverImage": "cover.png",
     "description": "Celebrate the Anniversary of the BSMG with the Anniversary playlist!",
-    "dependencies": [],
+    "dependencies": [
+        {
+            "version": "^2.8.0",
+            "id": "chroma",
+            "downloadIfMissing": "https://github.com/bsq-ports/Chroma/releases/download/v2.8.0/chroma.qmod"
+        }
+    ],
     "modFiles": [],
     "libraryFiles": [],
     "fileCopies": [],
